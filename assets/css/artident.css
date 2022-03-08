@@ -1,0 +1,26 @@
+#color_claro{
+    color:#706EA5;
+}
+
+#color_oscuro{
+    color:#35285E;
+}
+
+#fondo_oscuro{
+    background-color: #706EA5;
+}
+
+#fondo_mas_oscuro{
+    background-color: #35285E;
+}
+
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
